@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdync",
+        "uuid": 6929580,
+        "checksum": "rnarf"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
